@@ -1,0 +1,5 @@
+onlyBuiltDependencies:
+  - '@reown/appkit'
+  - better-sqlite3
+  - keccak
+  - sharp
