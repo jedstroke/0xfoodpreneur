@@ -1,5 +1,4 @@
-# 0xFoodpreneur
-
+<img src="https://github.com/jedstroke/0xfoodpreneur/blob/main/public/logo.png?raw=true" />
 ## Empowering Food SMEs with On-Chain Access
 
 **0xFoodpreneur** is a Web3-powered initiative designed to bring small and emerging food businesses online—without the heavy upfront cost of traditional web development.
