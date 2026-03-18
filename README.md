@@ -140,7 +140,7 @@ To create **true digital inclusion for food entrepreneurs**, enabling them to:
 
 ## ⚙️ Built On
 
-- StarkNet (scalable, low-cost blockchain infrastructure)
+- StarkNet (scalable, low-cost blockchain infrastructure) & Crypto native UX abstraction via Starkzap
 
 **Contract Address:**  
 https://voyager.online/contract/0x53e3c4307c7f512fef31773d66edf345a3228b5c65523b0e8efd32a85a98626
