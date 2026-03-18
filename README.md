@@ -1,4 +1,6 @@
-<img src="https://github.com/jedstroke/0xfoodpreneur/blob/main/public/logo.png?raw=true" />
+<div align="center">
+  <img src="https://github.com/jedstroke/0xfoodpreneur/blob/main/public/logo.png?raw=true" />
+</div>
 
 ## Empowering Food SMEs with On-Chain Access
 
