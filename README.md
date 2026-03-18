@@ -10,7 +10,7 @@ At its core, 0xFoodpreneur uses a **bonding curve access token model** (NFT-base
 
 ---
 
-## 🚀 What You Get
+## 🚀 What They Get
 
 ### 🌐 Full Website Infrastructure
 
